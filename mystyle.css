@@ -42,3 +42,6 @@ input[type=submit]:hover {
     float: left;
     color: white;
 }
+table{
+    float: left;
+}
