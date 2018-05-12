@@ -8,9 +8,11 @@
 }
 .header h1{
 
-	background: #0000;
+	background: #000;
 	font-family: arial;
-	color: #ffff;
+	color: #fff;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
 
 	float: right;
 	text-align: right;
